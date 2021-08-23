@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prakharrrr
-- 👀 I’m interested in coading
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : pareprakhar99@gmail.com
