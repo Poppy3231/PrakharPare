@@ -5,6 +5,6 @@
 - 📫 How to reach me : pareprakhar99@gmail.com
 
 <!---
-Prakharrrr/Prakharrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PrakharPare/PrakharPare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
