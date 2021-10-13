@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Prakharrrr
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @PrakharPare
+- 👀 I’m interested in Learning 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Development Projects
 - 📫 How to reach me : pareprakhar99@gmail.com
 
 <!---
